@@ -1,4 +1,4 @@
-# NNDL CA5 - Transformers
+# Neural Network and Deep Learning Course - Transformers
 
 ## Project Description
 
